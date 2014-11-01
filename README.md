@@ -40,20 +40,32 @@ membership rights. (rev. Spring 1996, Spring 2010)
 
 A. Shop Managers
   1. All Risley Shops or Shop-groups must have at least one Manager who currently resides in Risley. The duties of Shop Managers shall be determined by the Risley Kommittee, with the RHD and the Shop Coordinator, and shall include at least the following: (rev. Spring 2010)
+  
     a. Maintain the Shop facilities ensuring they are orderly and safe;
+  
     b. Maintain records of the Shop's inventory;
+  
     c. Run semesterly workshops on the shop resources;
+  
     d. Publicize shop resources.
+  
   2. Shop/Shop-group Managers will be appointed by Kommittee in conjunction with the RHD.
   
 B. Shop Coordinator
   1. A Shop Coordinator, whose duties shall be determined by the Risley Kommittee and the RHD. These shall include at least the following: (Spring 2010)
+  
     a. Attending all Kommittee meetings, and delivering the weekly "Shop Report" to inform the Kommittee of the status of the shops and of any shop events;
+  
     b. Records the details of every allocation for the shops by Kommittee;
+  
     c. Maintains records of the shop inventories (performed by shop managers);
+  
     d. Maintains and distributes all shop keys;
+  
     e. Hold regular meetings with the Shop Managers;
+  
     f. Evaluates shop manager performance.
+  
   2. Kommittee may fiscally compensate the Shop Coordinator at its option, with pay determined and allocated at the start of each semester.
   
 C. Each shop may, at the discretion of the manager(s), establish a group of shop associates. Shop associates are non-members who wish to use that shop only.  Shop Associates would pay a set fee for the use of that shop only. Risley memberswill not be assessed shop fees in addition to the Risley Activity Fee. Shop fees will be set by the manager(s) and Kommittee.
@@ -73,19 +85,26 @@ are open to other Risley members to be determined via referenda. (rev. Fall 2002
 **VI. The Risley Kommittee: Membership and Institution**
 
 A. The elected Kommittee members shall be:
-  1. Members-At-Large. Eight At-Large Representatives.
-  2. Minister of Letters. A Minister of Letters (AKA Secretary) shall act as recording secretary, keeping minutes of all meetings, and shall post minutes within two days of the next meeting, and at least 15 minutes after the meeting is adjourned. As soon as the meeting is adjourned, the minister will ask Kommittee if there is anything that they need to add to
+  1. **Members-At-Large.** Eight At-Large Representatives.
+  2. **Minister of Letters.** A Minister of Letters (AKA Secretary) shall act as recording secretary, keeping minutes of all meetings, and shall post minutes within two days of the next meeting, and at least 15 minutes after the meeting is adjourned. As soon as the meeting is adjourned, the minister will ask Kommittee if there is anything that they need to add to
 the minutes.
+  
     a. The Secretary shall also be responsible for counting hands in the case of a hand vote. (Spring 2011)
+
     b. All records kept by the recording secretary shall be given to the Archivist as soon as they are no longer in use. (Spring 1999)
-  3. Minister of Propaganda. The Minister of Propaganda (AKA Propagandist) shall adequately publicize all Kommittee events (elections, referenda, meetings, etc) as soon as is practical. They shall be in charge of any votes that involve ballots, including elections and referenda. (Fall 2003, rev. Spring 2006, rev. Spring 2011)
-  4. The Kommittee Chair, AKA "¡El Presidente For Life!" [^2] The Chair shall be elected by Kommittee from the directly-elected or endured members at the last meeting of each semester. All nominees shall be required to state their intent to run at the second to last Kommittee of the semester. The newly elected chair shall not take office until the first
+
+  3. **Minister of Propaganda.** The Minister of Propaganda (AKA Propagandist) shall adequately publicize all Kommittee events (elections, referenda, meetings, etc) as soon as is practical. They shall be in charge of any votes that involve ballots, including elections and referenda. (Fall 2003, rev. Spring 2006, rev. Spring 2011)
+  
+  4. **The Kommittee Chair, AKA "¡El Presidente For Life!"** [^2] The Chair shall be elected by Kommittee from the directly-elected or endured members at the last meeting of each semester. All nominees shall be required to state their intent to run at the second to last Kommittee of the semester. The newly elected chair shall not take office until the first
 Kommittee of the next semester, however, they shall be responsible for any Kommittee matters dealt with over summer or winter break. The Chair shall be responsible for the smooth running of all Kommittee meetings. The Chair shall restate all motions before they are put to a vote. (rev. Spring 2001)
 
 B. The appointed Kommittee members shall be:
   1. Resident Advisors. Resident Advisors (RAs), whose duties shall be determined by the parent organization specified in the By-Laws in conjunction with the Risley Kommittee. These shall include at least the following:
+
     a. shall be responsible for taking necessary security precaution for Risley property;
+
     b. shall be responsible for taking year end inventory.
+
   2. Residence Hall Director. Residence Hall Director (RHD), whose duties shall be determined by the parent organization specified in the By-Laws in the spring prior to the academic year in which s/he will serve. (Fall 2003)
     a. In the absence of Kommittee, the Residence Hall Director shall be responsible for making any pressing decisions that are in the best interest of Risley and the Risley community.
     b. Between Kommittee meetings, the RHD or any person(s) they may designate shall have the authority to make any pressing decisions they consider in the best interest of Risley. The RHD shall inform Kommittee of any such decisions at the next Kommittee meeting. (Spring 1999, rev. Fall 2002, Spring 2010)
@@ -530,8 +549,7 @@ more than one such runoff. A majority affirmative vote shall be required to
 approve a proposal overturning a decision reached at a Kommittee meeting.
     E. A referendum shall pass by a simple majority of those voting unless the text of the
 referendum states otherwise.
-    F. If a referendum is to be included in the By-Laws, a statement to this effect will be
-included in it. (moved Spring 2003)
+    F. If a referendum is to be included in the By-Laws, a statement to this effect will be included in it. (moved Spring 2003)
 ======
 ###General Policies
 
