@@ -284,6 +284,8 @@ C. If a proposed amendment to Charter is deemed controversial, and it goes to
 referendum, there must be at least two choices, even if one of them is simply a
 reiteration of the current policy.(Spring 2011)
 
+D. All potential amendments to Charter must be presented in writing to Kommittee prior to voting.  This does not apply to those sent to referendum, for which written options must be presented to the whole of Risley, as per XII. C. 
+
 **XIII.By-Laws**
 
 A. By-Laws will be placed into four categories:
