@@ -337,8 +337,13 @@ will be announced that a review of the Charter and By-Laws will take place in tw
 weeks. Copies of the Charter and By-Laws shall be made available to the general
 membership. At the fifth meeting of the new Kommittee for the spring semester, the
 Charter and By-Laws shall be reviewed. (Fall 1981, rev. Fall 1983)
-  4. **Calling the Question.** All motions to call the question must be passed by a 2/3 vote. Any
-Risley member in the room may vote. (Spring 1985, rev. Fall 2006)
+  4. **Calling the Question.** Motions to call the question may be made in either of two ways:
+  
+    i. any member of Kommittee who has the floor may motion to call the question.  In this case, the vote to call the question occurs immediately and without discussion.  
+
+    ii. At any time, the Kommittee chair may motion to call the question.  In this case, another Risley member in the room must second the motion, after which the vote to call the question happens immediately.  
+    
+  All motions to call the question must be passed by a 2/3 vote. Any Risley member in the room may vote. (Spring 1985, rev. Fall 2006, rev. Spring 2015)
   5. **Tabling.** All motions to table a motion must be passed by a 2/3 vote. (Spring 1985, rev.
 Fall 2006)
   6. **Motions to table on allocations over $200 require only 2/5 vote.** (Fall 2004, rev. Fall
