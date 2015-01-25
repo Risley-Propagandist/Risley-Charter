@@ -371,6 +371,7 @@ election procedure for a special election. If this vote succeeds, the Kommittee 
 question is removed from his or her Kommittee office.
   16. **Deallocations.** Motions to revoke an allocation (deallocate) require the same margin to
 pass as the original motion. (Fall 2007)
+17. **The No Airing of Grievances Amendment** With the exception of staff reports, subkommittee reports, and announcements on the agenda at the commencement of Kommittee, no business shall be conducted without an associated motion.  (Spring 2015, [^9])
 
 ======
 
@@ -908,4 +909,6 @@ particular shops which they use. (Fall 1988, moved Fall 2004) !
 [^7]: "Blame Kolb Ettenger (Spring 2007) for this."
 
 [^8]: "Blame Joey Moro (Spring 2012) for everything else."
+
+[^9]: "Blame Sarah Longchamp (Spring 2015) for this."
 
