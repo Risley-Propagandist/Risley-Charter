@@ -591,8 +591,8 @@ Flag and obtain all the protections thereof.
 responsible for House Meeting. (Fall 2004)
     A. House meeting should be held the Wednesday after the first meeting of the year of
 Kommittee, but other days close to that are acceptable. (rev. Spring 2012) !
-  11. **Socratic Method.** All Kommittee executions shall be carried out by hemlock. [^6] (Spring
-2007)
+  11. **Socratic Method.** All Kommittee executions shall be carried out by hemlock. All hemlock must be prepared by the Kommittee Barber.  [^6] (Spring
+2007, Revised Spring 2015)
 
 ###Risley Positions
 *(These are non-Kommittee positions, elected by Kommittee unless otherwise stated.
