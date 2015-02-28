@@ -653,34 +653,22 @@ the building. The archivist shall therefore document Risley and Kommittee proced
 the rationale for major past decisions, and the history of Risley, Charter, and Kommittee,
 and such other topics as the archivist shall choose or Kommittee shall direct. The
 archivist shall be given electronic copies of the minutes of Kommittee and subcommittee
-meetings, and shall make these publicly available in some convenient format. The
-archivist shall be responsible for maintaining authoritative copies of the Risley Charter
-and related texts, and making these available to the Risley membership. The archivist
+meetings, and shall make these publicly available in some convenient format. The archivist
 may appoint and remove associate archivists, with powers and duties designated by the
-archivist. The Risley Archivist shall be entitled to such compensation as Kommittee sees
+archivist. The powers and duties of an associate archivist shall be a subset of those of The Risley Archivist.  
+The Risley Archivist shall be entitled to such compensation as Kommittee sees
 fit to award. The archivist shall be appointed by Kommittee bearing in mind the
 recommendation of the existing archivist. (Spring 2005)
-  7. **Compost Master/Mistress.** The Compost master/Mistress shall maintain a student-run
-compost system in Risley by allocating for necessary supplies, recruiting and training
-volunteers, and educating the Risley community on proper compost procedure. They
-shall also work with Risley dining to ensure a continued good relationship over compost
-issues. (Spring 2012)
-  8. **Listerv Guardians.** Five people shall be Listserv Guardians, elected by referendum, in
-the same manner as members at large. If possible, only one of these people may be New
-Blood. If possible, at least two of these people must be returners to the position. The
-position term is one semester. Each of these people must be present at Kommittee to
-accept their nomination, but it is not necessary that they be endured members of
-Kommittee either to be elected or to maintain the position. One Listserv Guardian shall
-be designated “Kommittee Liaison” by the Guardians – that person must attend
-Kommittee each week. Each of these people shall have equal authority to operate
-autonomously, but they are a team and need to be uniform in their responses. (Spring
-2011)
+  7. **Listerv Guardian.** The listserv guardian shall attend Kommittee each week to report on the status of the listservs. The specific role of the Guardian shall be as follows: (Spring 2011)
     A. The role of the Listserv Guardians shall be to send a neutral form letter to people
 who send emails to the wrong listserv or to moderate the listservs, depending on
 whether the listservs are moderated or unmoderated. (Spring 2011)
-    B. The RHD is responsible for stepping in in the case of a nasty flame war. And the
+      a. All form letters, with names blacked out, shall be submitted to the archivist as a matter of public record.
+      b. The role and duties of the listserv guardian are limited to those listed in Charter.  
+    B. The RHD is responsible for stepping in in the case of bullying, inappropriate content, or a flame war. And the
 RAs shall always be able to act in their role of ensuring residents are respectful to
 each other, regardless of the medium of communication. (Spring 2011)
+    C. Transitional Period. During the Spring of 2015, no Guardian shall be involuntarily removed for the purpose of reducing the Guardian staff.  Only one of these Guardians is required to attend Kommittee as Liason. Guardians who voluntarily leave during this period shall not be replaced unless this would bring the number of Guardians to zero.  A single Guardian will be elected in the Fall of 2015.  In the Fall of 2015 or later, this clause may be deleted by a simple majority vote of Kommittee.
   8. **Shop Coordinator.** Kommittee shall designate a Shops Coordinator, who has the duties
 states in section IV. B. and is not an RA (Spring 2011). 
 
@@ -824,27 +812,16 @@ Risley will follow postering guidelines set forth by the university. (Spring 198
 those purposes only.
     F. Posters must be removed within three (3) days of the final listed date of the
 program; offenders will be frowned upon. :( (Fall 2002)
-  4. **Guest Suite.** Allocation of the rotating guest suite will be handled in the same manner as
-any other space allocation. Guest Suite Residents staying for longer than one month must
-be approved by Kommittee. (Spring 1988) An Artist in Residence may serve a maximum
-of four terms consecutively. This limitation does not apply to non-consecutive terms.
-(Spring 1993, rev. Spring 2003)
-  5. **Tammany.** The Tammany Managers shall have jurisdiction over Tammany from 8pm to
+  4. **Tammany.** The Tammany Managers shall have jurisdiction over Tammany from 8pm to
 3am Friday and Saturday evenings while Risley is open to undergraduates. Any use of
 Tammany outside of that time must be approved by the Managers, except when allocated
 by Kommittee. (Fall 1988)
-  6. **Cross Country Gourmet.** Risley Dining shall have the use of Tammany and the Rotunda
-for Cross Country Gourmet dinners, provided the Risley Kommittee receives notice of
-the event at least 2 weeks in advance and approves of the allocation. (Fall 1988)
-  7. **Misuse of Space.** If a group has been found to misuse Risley space, this group will be
+  5. **Misuse of Space.** If a group has been found to misuse Risley space, this group will be
 issued a written warning by the Grand Vizier to the group contact. Upon evidence for a
 second misuse of space, the group will forfeit their present allocation and be required to
 attend the subsequent Kommittee meeting to address the grievance. Upon failure to
 attend Kommittee, the offending group will be added to the Groups in Poor Standing List
 in the Outside Groups Appendix. (Spring 2003, rev. Fall 2006)
-  8. **Fires in Cowcliffes.** Fires may be burned in the fireplace in Cowcliffes provided that a
-staff member is present and conscious. If there is a Risley Axe, it will remain, unless in
-use, in the secret cabinet to the right of the fireplace. (Spring 2003) 
 ======
 ###Equipment
   1. **Risley Flag.** Risley Residential College will adopt an official flag for Risley. Risley
