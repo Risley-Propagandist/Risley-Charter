@@ -146,24 +146,17 @@ G. Impeachment. At any time, any member of Kommittee may call for a Vote of No C
 A. Rules for Kommittee meetings shall be decided by the Risley membership. The chair of the Risley Kommittee shall preside over any Kommittee meeting. If, for a single meeting, no Chair is available, then the Chair shall appoint a replacement
 from the elected members to preside over the meeting. (rev. Fall 2002, rev. Fall 2006, rev. Spring 2010)
 
-B. Regular Kommittee meetings will be held each Sunday followed by a Monday on which classes are scheduled during the academic year.
+B. Regular Kommittee meetings shall be held every Sunday followed by
+a Monday on which classes are scheduled during the academic year at 9:00 p.m.. This
+time may be changed by a majority vote of the full Kommittee membership. (rev. Fall
+2007)
 
-C. Proxy votes will not be accepted at Kommittee, although votes may be registered with the Chair in advance.
+C. Proxy and absentee votes will not be accepted at Kommittee.
 
 D. Kommittee may hold special meetings, including emergency meetings.
   1. Special Kommittee meetings shall be called by the Chair, the RAs, or the RHD. The agenda for such meetings shall be finalized and posted by the caller before the meeting. Absences from special Kommittee meetings may, in mitigating circumstances, be granted by the Chair with no impact on a member's attendance record.
   2. Special general meetings may be called by the RHD, an RA, or Kommittee.
   3. Emergency meetings: The quorum may not be lowered for any emergency meetings. An adequate attempt must be made to inform all Kommittee members about emergency meetings. Absence from an emergency Kommittee meeting will not affect a member's attendance record.
-
-E. A majority of Kommittee members present may overrule a decision of the Chair.
-
-F. Immediately after a Kommittee meeting the Chair shall post the agenda for the next meeting. The Chair shall decide the order of the agenda. New items may be added at the time of the meeting.
-
-G. Switzerland Clause. During voting, when the House is Divided, the RHD and RAs have the option from obstaining from voting. (Spring 2010)
-
-H. No Kommittee member may be forced to leave the room and thereby be absent for a discussion or vote. (Spring 2011)
-
-I. Kommittee proceedings are public. Nothing may be stricken from the minutes to protect confidentiality. (Spring 2011)
 
 **VI. Subcommittees**
 
@@ -326,10 +319,7 @@ the Risley membership shall put this Charter into effect.
 =======
 
 ###Parliamentary Rules
-  1. **Regular Meetings.** Regular Kommittee meetings shall be held every Sunday followed by
-a Monday on which classes are scheduled during the academic year at 9:00 p.m.. This
-time may be changed by a majority vote of the full Kommittee membership. (rev. Fall
-2007)
+  1. **Robert's Rules.** Kommittee Meetings shall be conducted according to the 1915 edition of Robert's Rules of Order, unless otherwise listed in Charter.  In the event that Robert's Rules and the Kommittee Charter contradict each other, Charter shall take precedence.
   2. **Agenda Items.** Items on the agenda shall be signed or initialed by the person posting
 them, or who will present them to Kommittee. (Fall 1981, rev. Spring 1999)
   3. **Charter Review.** At the third meeting of the new Kommittee for the spring semester, it
@@ -354,7 +344,7 @@ building. If a motion is not posted for 48 hours beforehand, the motion may be d
   8A. **Tabling a controversial motion.**   
 A motion to table a controversial motion requires a simple majority to pass.  During the time between tabling and the next Kommittee, the tabled motion must be advertised to the Risley community.  Tabling should occur when parties need time to properly consider the motion, concerned parties are not present, or the motion is in too rough a form to be effectively revised by debate.  (Rev. Fall 2014)
   9. **Absences.** Members who miss any part of a meeting will be considered absent, at the discretion of the Chair. (Fall 1988)
-  10. **Majority default.** All decisions not otherwise specified in this document shall be made
+  10. **Majority default.** All decisions not otherwise specified in this document or in Robert's Rules of Order shall be made
 by majority vote.
   11. **Dividing the House.** After the vote on a main motion is taken, a member of Kommittee
 may immediately request a division of the house. If the motion is seconded and passes by
@@ -376,6 +366,9 @@ election procedure for a special election. If this vote succeeds, the Kommittee 
 question is removed from his or her Kommittee office.
   16. **Deallocations.** Motions to revoke an allocation (deallocate) require the same margin to
 pass as the original motion. (Fall 2007)
+  17. **The Agenda** Immediately after a Kommittee meeting the Chair shall post the agenda for the next meeting. The Chair shall decide the order of the agenda. New items may be added at the time of the meeting.
+  18.  **Switzerland Clause.** During voting, when the House is Divided, the RHD and RAs have the option from obstaining from voting. (Spring 2010)
+  19. **Public Proceedings** No Kommittee member may be forced to leave the room and thereby be absent for a discussion or vote.   Kommittee proceedings are public. Nothing may be stricken from the minutes to protect confidentiality. (Spring 2011)
 
 ======
 
