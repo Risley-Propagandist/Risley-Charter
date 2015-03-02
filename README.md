@@ -218,7 +218,8 @@ Risley), their position shall be included in the Special Election at the end of 
 semester. The newly elected person shall carry out the rest of their predecessor’ s
 term, and the position shall be open again for the next election. In the event that a
 position is left vacant unexpectedly, and must be filled immediately, the GV shall
-appoint an interim until a Special Election can be held. (Spring 2010, rev. Spring
+appoint an interim until a Special Election can be held. If a portion of a double-headed monster leaves, 
+the remaining head may carry out their duties without and additional election.(Spring 2010, rev. Spring
 2011)
 
 **VIII.Selection of Residence Hall Staff**
@@ -380,37 +381,11 @@ pass as the original motion. (Fall 2007)
 ======
 
 ###Restricted Policies
-  1. **Quiet Hours.** These policies apply inside the building as well as within the areas in the
-close vicinity of the building. The hours after 11pm Sunday-Thursday nights, after 1am
-Friday and Saturday nights, before 11am Saturday and Sunday mornings and before
-10am on weekdays shall be designated as quiet hours in Risley. No excessive noise will
-be permitted after quiet hours. Extensions may be made for Risley events by a 2/3 vote.
-Any Risley member present in the room may vote. Quiet hours shall be extended until
-3am for Risley performances of Rocky Horror Picture Show, performed by the Denton
-Drama Troupe. (rev. Spring 1998, rev. Spring 1999)
-    A. Noise is defined as a sound level high enough to disturb a resident in a closed
-room.
-    B. During the daytime and evening hours, residents should follow the following
-procedure in the event of a noise infraction:
-      a. Contact the noisemaker, and negotiate a solution; if the doors and
-windows of both the plaintiff's and the noisemaker's room are not closed,
-try this first.
-      b. Should negotiating a solution fail, contact a staff member.
-      c. Should both of the above fail, with no hope of solution, contact Cornell
-University Police.
-      C. During quiet hours, Risley will follow a policy favoring the plaintiff; that is, all
-requests for quiet during quiet hours will be heeded. (rev. Spring 1988)
-    D. At the end of each semester, Risley will observe a period of 21 hour quiet hours.
-They will begin at the time normal quiet hours would begin on the last day of
-scheduled classes. They shall continue until the end of the exam period.
-Kommittee shall decide when the three hour break from quiet hours shall be. If
-Kommittee does not set a different period, 5:00 - 8:00pm shall be standard.
-(Spring 1998)
-  2. **Risley Library.** Hours between 7pm and 2am on Sunday through Thursday evenings will
+  1. **Risley Library.** Hours between 7pm and 2am on Sunday through Thursday evenings will
 be designated as absolute silence hours in the Risley library. This rule shall not be applied
 if the library is otherwise allocated. Noise will be allowed during these hours only if no
 one objects. (Spring 1985, rev. Spring 1993, rev. Spring 1999)
-  3. **Outside Groups.** Whereas Risley Residential College was formed for the purpose of
+  2. **Outside Groups.** Whereas Risley Residential College was formed for the purpose of
 promoting the creative and performing arts, outside groups wishing to use Risley
 facilities (especially the Great Hall) would be required to have some basis in the creative
 and performing arts (exceptions specified below).
@@ -464,11 +439,10 @@ to allow them to make their position known.
 automatically be demoted to Poor Standing. Exceptions may be made by a
 2/3 vote within two Kommittee meetings after the event.
       c. Groups may also be demoted to Poor Standing by a 2/3 vote.
-  4. **The Rocky Horror Picture Show.** (rev. Fall 2006, rev. Spring 2010)
+  3. **The Rocky Horror Picture Show.** (rev. Fall 2006, rev. Spring 2010)
     A. Each year, money will be allocated for the rental fees and rights to show the
 movie, costumes, props and set (if necessary).
-    B. In the event that the performance of “The Rocky Horror Picture Show” loses money or does not make at least their allocation amount in profits, the Denton Drama Troupe will attempt to request funding from the SAFC in light of the disaster.
-    C. In the event that the Director of the Denton Drama Troupe is not a Risleyite, it is expected that the Denton Drama Troupe will select a current Risley resident from the cast to serve as liaison to the staff (hereafter known as the Denton Bitch) and who will ultimately be held accountable for the following:
+    B. In the event that the Director of the Denton Drama Troupe is not a Risleyite, it is expected that the Denton Drama Troupe will select a current Risley resident from the cast to serve as liaison to the staff (hereafter known as the Denton Bitch) and who will ultimately be held accountable for the following:
       i. UUPs and other forms required by Cornell
       ii. Fire safety code compliance
       iii. Marketing and ticket printing
@@ -487,14 +461,13 @@ of classes;
 members;
     E. The voting booth location shall be thoroughly publicized prior to the opening of
 the election;
-    F. Ballots will be collected at the voting booth Wednesday through Friday of the
+    F. Voting shall be available at the voting booth Wednesday through Friday of the
 third full week of classes;
-    G. Ballots shall be available at the voting booth;
     H. The voting booth shall be staffed by volunteers, who, if possible, should not be
 candidates for office;
-    I. Cast ballots shall be placed in a seal container, and names shall be recorded--
-separate from ballots--to ensure no person votes more than once;
-    J. There shall be no electioneering (i.e., no attempt at verbal persuasion) at the
+    I. In the event that physical ballots are used, Cast ballots shall be placed in a seal container, 
+  and names shall be recorded separately from ballots to ensure no person votes more than once;
+    J. There shall be no electioneering (i.e., no attempt at verbal persuasion) at or near the
 voting booth while voting is going on;
     K. Immediately after the voting is completed, two of the elected Kommittee
 members of the old Kommittee shall tabulate the results. Ballots shall be kept for
@@ -515,8 +488,10 @@ selected by ¡El Presidente For Life!.
     O. Election results shall be announced at the regularly scheduled Kommittee meeting
 on the Sunday following the election. Newly elected members shall assume their
 offices immediately following their acceptance. (rev. Fall 2007)
-    P. Victorious candidates may not accept more than one office.
-    Q. The numeric election results shall be made public after and only after the election.
+    P. Candidates shall not simultaneously hold two or more of the following positions: Member-at-Large, Kommittee Chair, Propagandist, Minister of Letters
+    Q. The numeric election results shall be made public upon request after and only after the election.
+    R. The election facilitator may request permission to use an electronic voting system.
+      a. Before an electronic voting system may be used for an election, that specific system must be approved for that election by a 2/3rds majority vote of Kommittee.
   6. (moved Fall 2007)
   7. **Special Election.** In the case where a special election is called for (electing the chair,
 impeaching an officer):
@@ -550,10 +525,7 @@ submitted to the membership at least 24 hours prior to the voting.
 elections. (Spring 2011)
     C. Voting on a referendum must take place within five days of the referendum's
 initiation, unless postponed in accordance with Section VI. H.
-    D. In a multiple-choice referendum, those runners-up within five percentage points
-of the top choice will be sent to a runoff with the top choice. There will not be
-more than one such runoff. A majority affirmative vote shall be required to
-approve a proposal overturning a decision reached at a Kommittee meeting.
+    D. In a multiple-choice referendum, a single transferable vote (Instant Runoff) system shall be used. 
     E. A referendum shall pass by a simple majority of those voting unless the text of the
 referendum states otherwise.
     F. If a referendum is to be included in the By-Laws, a statement to this effect will be included in it. (moved Spring 2003)
