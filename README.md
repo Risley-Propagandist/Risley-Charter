@@ -86,16 +86,23 @@ are open to other Risley members to be determined via referenda. (rev. Fall 2002
 
 A. The elected Kommittee members shall be:
   1. **Members-At-Large.** Eight At-Large Representatives.
-  2. **Minister of Letters.** A Minister of Letters (AKA Secretary) shall act as recording secretary, keeping minutes of all meetings, and shall post minutes within two days of the next meeting, and at least 15 minutes after the meeting is adjourned. As soon as the meeting is adjourned, the minister will ask Kommittee if there is anything that they need to add to
-the minutes.
+  2. **Minister of Letters.** A Minister of Letters (AKA Secretary) shall act as recording secretary, keeping minutes of all meetings, and shall post minutes within two days after the meeting is adjourned. As soon as the meeting is adjourned, the minister will ask Kommittee if there is anything that they need to add to the minutes.
   
     a. The Secretary shall also be responsible for counting hands in the case of a hand vote. (Spring 2011)
 
     b. All records kept by the recording secretary shall be given to the Archivist as soon as they are no longer in use. (Spring 1999)
 
-  3. **Minister of Propaganda.** The Minister of Propaganda (AKA Propagandist) shall adequately publicize all Kommittee events (elections, referenda, meetings, etc) as soon as is practical. They shall be in charge of any votes that involve ballots, including elections and referenda. (Fall 2003, rev. Spring 2006, rev. Spring 2011)
+  3. **Minister of Propaganda.** The Minister of Propaganda (AKA Propagandist) shall adequately publicize all Kommittee events (elections, referenda, meetings, etc) as soon as is practical. The following are the responsibility of the Propagandist:
   
-  4. **The Kommittee Chair, AKA "¡El Presidente For Life!"** [^2] The Chair shall be elected by Kommittee from the directly-elected or endured members at the last meeting of each semester. All nominees shall be required to state their intent to run at the second to last Kommittee of the semester. The newly elected chair shall not take office until the first
+    a. Any votes that involve ballots, including elections and referenda. 
+
+    b. The maintenance of the Kommittee Bulletin Board, including the posting of an up-to-date version of Charter.
+    
+    c. Maintenance and updating of Charter in accordance with passed amendments.
+    
+    (Fall 2003, rev. Spring 2006, rev. Spring 2011, rev. Spring 2015)
+  
+  4. **The Kommittee Chair, AKA "¡El Presidente For Life!"** [^2] The Chair shall be elected by Kommittee from the directly-elected and the endured members at the last meeting of each semester. All nominees shall be required to state their intent to run at the second to last Kommittee of the semester. The newly elected chair shall not take office until the first
 Kommittee of the next semester, however, they shall be responsible for any Kommittee matters dealt with over summer or winter break. The Chair shall be responsible for the smooth running of all Kommittee meetings. The Chair shall restate all motions before they are put to a vote. (rev. Spring 2001)
 
 B. The appointed Kommittee members shall be:
@@ -108,6 +115,7 @@ B. The appointed Kommittee members shall be:
   2. Residence Hall Director. Residence Hall Director (RHD), whose duties shall be determined by the parent organization specified in the By-Laws in the spring prior to the academic year in which s/he will serve. (Fall 2003)
     a. In the absence of Kommittee, the Residence Hall Director shall be responsible for making any pressing decisions that are in the best interest of Risley and the Risley community.
     b. Between Kommittee meetings, the RHD or any person(s) they may designate shall have the authority to make any pressing decisions they consider in the best interest of Risley. The RHD shall inform Kommittee of any such decisions at the next Kommittee meeting. (Spring 1999, rev. Fall 2002, Spring 2010)
+ 
   3. Grand Vizier. A Grand Vizier (aka Risley Accountant), whose duties shall be determined by the Risley Kommittee and shall include at least the following:
     a. Attending all Kommittee meetings, and delivering the weekly "Budget Report" to inform the Kommittee of Risley's fiscal situation;
     b. Record the details of every fiscal allocation by Kommittee;
@@ -117,10 +125,15 @@ B. The appointed Kommittee members shall be:
     f. Make available the details and summary of the available space within Risley to any interested party;
     g. Act as the primary point of contact between any outside group seeking or desiring to seek Risley resources;
     h. Record the contact information of any outside group that is allocated Risley resources.
-  4. Kommittee may fiscally compensate the Grand Vizier at its option, with pay determined and allocated at the start of each semester. (Fall 2003)
+ 
+ 4. Kommittee may fiscally compensate the Grand Vizier at its option, with pay determined and allocated at the start of each semester. (Fall 2003)
+
   5. Artist in Residence. The Artist in Residence(s) is/are required to attend Kommittee meetings and present reports at the beginning of each meeting.
-  6. Kommittee Mime. A Kommittee member may be designated Kommittee Mime, to be detonated in times of despair. [^3] (Spring 2001, rev. Fall 2007, rev. Spring 2010)
-  7. Kommittee Barber. The Kommittee Barber shall shave all and only Kommittee members who do not shave themselves. [^4] (Fall 2002)
+ 
+ 6. Kommittee Mime. A Kommittee member may be designated Kommittee Mime, to be detonated in times of despair. [^3] (Spring 2001, rev. Fall 2007, rev. Spring 2010)
+ 
+ 7. Kommittee Barber. The Kommittee Barber shall shave all and only Kommittee members who do not shave themselves. [^4] (Fall 2002)
+
   8. No appointed member may run for or hold an elected Kommittee position. (Spring 2011)
 
 C. Members-By-Endurance. Any Risley member may at any time declare his or her intention to become a Member-By-Endurance of Kommittee. They are then required to attend two consecutive full regular Kommittee meetings. At the third meeting they become a Member-By-Endurance with full voting rights. If a person has been endured previously, they become re-endured by the second attended meeting, instead of the third.. (Fall 2003, rev. Spring 2010, rev. Spring 2012)
@@ -134,7 +147,7 @@ E. (Spring 2005, deleted Spring 2011)
 
 F. Excused Absences. Absences from Kommittee meetings may be granted by the Kommittee Chair only; therefore, the Chair shall also be responsible for keeping attendance of regular Kommittee members and overseeing the attendance of declared Representatives-by-Endurance. Under normal circumstances, permission to miss all or part of a Kommittee meeting shall not be granted once the meeting has begun. At the beginning of each meeting, the names of all Kommittee members who have been given leave to miss the meeting shall be announced and recorded in the minutes. (Spring 1986, rev. Spring 2010, rev. Spring 2011, rev. Spring 2012)
 
-G. In-House Conflicts. Members involved in temporary Risley events which conflict in time with Kommittee meetings will be excused by Kommittee ahead of time. These absences will not affect the member's attendance record. The membership of Kommittee will be temporarily reduced by the number of persons excused under this provision, so that the quorum will be lowered.
+G. In-House Conflicts. Members involved in temporary Risley events which conflict in time with Kommittee meetings will be excused by Kommittee. These absences will not affect the member's attendance record. 
 
 F. Quorum. No Kommittee business may be done without a quorum present or anywhere but at a Kommittee meeting except as noted in the Charter or By-Laws. A quorum shall be defined as a number of Kommittee members exceeding one-half
 the total number of elected and appointed Kommittee members (not to include members by endurance). (rev. Fall 2002, rev. Spring 2006)
