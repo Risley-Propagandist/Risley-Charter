@@ -39,7 +39,7 @@ membership rights. (rev. Spring 1996, Spring 2010)
 **IV. The Risley Shops**
 
 A. Shop Managers
-  1. All Risley Shops or Shop-groups must have at least one Manager who currently resides in Risley. The duties of Shop Managers shall be determined by the Risley Kommittee, with the RHD and the Shop Coordinator, and shall include at least the following: (rev. Spring 2010)
+  1. All Risley Shops must have at least one Manager.  At least one member of each shop's staff must reside in Risley. The duties of Shop Managers shall be determined by the Risley Kommittee, with the RHD and the Shop Coordinator, and shall include at least the following: (rev. Spring 2010)
   
     a. Maintain the Shop facilities ensuring they are orderly and safe;
   
@@ -49,7 +49,7 @@ A. Shop Managers
   
     d. Publicize shop resources.
   
-  2. Shop/Shop-group Managers will be appointed by Kommittee in conjunction with the RHD.
+  2. Shop Managers will be appointed by the RAs in conjunction with the RHD.
   
 B. Shop Coordinator
   1. A Shop Coordinator, whose duties shall be determined by the Risley Kommittee and the RHD. These shall include at least the following: (Spring 2010)
@@ -66,9 +66,7 @@ B. Shop Coordinator
   
     f. Evaluates shop manager performance.
   
-  2. Kommittee may fiscally compensate the Shop Coordinator at its option, with pay determined and allocated at the start of each semester.
-  
-C. Each shop may, at the discretion of the manager(s), establish a group of shop associates. Shop associates are non-members who wish to use that shop only.  Shop Associates would pay a set fee for the use of that shop only. Risley memberswill not be assessed shop fees in addition to the Risley Activity Fee. Shop fees will be set by the manager(s) and Kommittee.
+  2. The Shop Coordinator shall be an RA appointed by the RHD.
 
 **V. The Risley Kommittee: Name and Jurisdiction**
 
